@@ -4,7 +4,7 @@
 
 </div>
 
-## Hi there, I am Isabel Lombardi 👋 <img src="" width="30pxl">
+## Hi there, I am Isabel Lombardi 👋
     
 
 - 🔹 I’m a Back-end Developer, currently learning Data Science and Machine Learning
@@ -17,18 +17,20 @@
 <a href= "https://www.linkedin.com/in/isabel-lombardi-a190a5201/"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" height="40" width="40"/></a>
 </p>
 
-###Tech Stack:
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)  
-![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=Flask) 
+
+
+Tech Stack:   
+- ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)  
+- ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=Flask) 
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django)   
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=Git)
+- ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=GitHub)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=PyCharm)
 
 
 
-  
-###GitHub Stats:   
+ 
+GitHub Stats:   
 [![Isabel's GitHub stats](https://github-readme-stats.vercel.app/api?username=isabel-lombardi&show_icons=true&theme=radical)](https://github.com/isabel-lombardi/github-readme-stats)
 
 <!--
